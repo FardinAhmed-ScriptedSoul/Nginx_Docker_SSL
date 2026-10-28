@@ -1,0 +1,13 @@
+node_modules
+.git
+.gitignore
+.dockerignore
+nginx-certs
+*.key
+*.pem
+.env
+.env.*
+npm-debug.log*
+coverage
+dist
+build
